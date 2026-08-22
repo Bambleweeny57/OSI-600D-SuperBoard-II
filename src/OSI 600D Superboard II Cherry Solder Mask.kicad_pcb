@@ -2447,8 +2447,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "c6597bd8-5290-48f1-bf4a-3ff29128a59a")
 	)
 	(gr_circle
@@ -2459,8 +2458,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "229693b2-3750-43aa-b806-15080ec425ec")
 	)
 	(gr_circle
@@ -2637,8 +2635,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "bb1be8b6-bad6-48d9-a66d-a9d1817f19c9")
 	)
 	(gr_circle
@@ -2733,8 +2730,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "cee28726-af06-4468-9d93-18e8cfb55539")
 	)
 	(gr_circle
@@ -2792,8 +2788,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "98b5aa58-6586-40ed-956c-e49a270235c4")
 	)
 	(gr_circle
@@ -2828,8 +2823,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "7a176642-7c07-43bd-b36a-9f24c941a116")
 	)
 	(gr_circle
@@ -2972,8 +2966,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "9051667a-6fe2-4da5-b7a1-e27e6658e048")
 	)
 	(gr_circle
@@ -3068,8 +3061,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "ee2ceca4-d36c-41b1-9dfb-8e39a099caf1")
 	)
 	(gr_circle
@@ -3512,8 +3504,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "8c1ee304-331a-42bb-8c4f-78c6a3882b9f")
 	)
 	(gr_circle
@@ -3619,8 +3610,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "d6837d1f-8f2f-48bf-a558-bea1a1394aa5")
 	)
 	(gr_circle
@@ -3665,7 +3655,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
+		(layer "F.Cu")
 		(uuid "0125cf62-1503-4e58-a2fd-77735de1c0e9")
 	)
 	(gr_circle
@@ -3722,8 +3712,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "b1c9777d-7688-453a-bb06-b4f3c72e0aa3")
 	)
 	(gr_circle
@@ -3757,8 +3746,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "4abff986-367b-4d36-baa0-20dcdf3e7522")
 	)
 	(gr_circle
@@ -3805,8 +3793,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "d8990e6a-2af7-41b7-85d5-98f7eb30a95b")
 	)
 	(gr_circle
@@ -4045,8 +4032,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "5da92242-4be9-4ae6-aee9-fd568408986b")
 	)
 	(gr_circle
@@ -4057,8 +4043,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "e18d26e9-1f87-4b53-8d99-d31679dae275")
 	)
 	(gr_circle
@@ -4069,8 +4054,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "7766f2d5-1fba-444b-8414-730292c84591")
 	)
 	(gr_circle
@@ -4177,8 +4161,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "dee2a43b-195f-4943-97a9-08e744006af3")
 	)
 	(gr_circle
@@ -4309,8 +4292,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "357b3e0a-bb04-4f44-a80b-c84ffc0a879f")
 	)
 	(gr_circle
@@ -4680,8 +4662,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "b97b3a3b-0dfd-4250-841e-6157bae715b8")
 	)
 	(gr_circle
@@ -4692,8 +4673,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "8dc3647b-f1c7-47ca-a003-d3d3951b93ea")
 	)
 	(gr_circle
@@ -4788,8 +4768,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "96bc1955-95a0-444d-b46b-2ab8825875cd")
 	)
 	(gr_circle
@@ -5333,8 +5312,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "97fcffe3-89cf-4c29-961f-2a14412fc4cd")
 	)
 	(gr_circle
@@ -5440,8 +5418,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "e2666a4d-1b01-4bd2-b60a-4f21e6f9abb1")
 	)
 	(gr_circle
@@ -5500,8 +5477,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "b341f520-d61c-43f7-bb32-2de9bf000db2")
 	)
 	(gr_circle
@@ -5728,8 +5704,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "577d9312-f528-4cbd-b151-95e386ecebd9")
 	)
 	(gr_circle
@@ -5776,8 +5751,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "6390bc48-b035-4cf3-9470-92efe61d42cc")
 	)
 	(gr_circle
@@ -5788,8 +5762,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "cb35b5ab-7257-4ebd-9936-803943ede87f")
 	)
 	(gr_circle
@@ -5824,8 +5797,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "15872cfc-d1c6-42e2-bf04-19c325ad63a6")
 	)
 	(gr_circle
@@ -5860,8 +5832,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "bfce6c8e-a469-4856-ba52-df543f77af22")
 	)
 	(gr_circle
@@ -5884,8 +5855,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "45e0acb5-9d46-4236-a896-1076ed013195")
 	)
 	(gr_circle
@@ -6003,8 +5973,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "f8b6d856-5d79-48d2-9c87-26c85e84a284")
 	)
 	(gr_circle
@@ -6051,8 +6020,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "95991a04-f66a-4088-836d-0f75094f958a")
 	)
 	(gr_circle
@@ -6075,8 +6043,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "f75aee34-a98d-4d27-b715-af321dcc2e99")
 	)
 	(gr_circle
@@ -6111,8 +6078,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "6e786558-9476-4afe-a8a8-e69e71320b82")
 	)
 	(gr_circle
@@ -6123,8 +6089,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "0490397a-a0bd-4cfa-80a4-6fe0a149b3a2")
 	)
 	(gr_circle
@@ -6267,8 +6232,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "b2c37535-6d5a-48fc-880a-dcfd9ad5951e")
 	)
 	(gr_circle
@@ -6529,8 +6493,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "21291707-768f-4f39-8e24-de771a5a05d1")
 	)
 	(gr_circle
@@ -6552,8 +6515,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "7f6b9dbf-6d4a-4eae-885e-19d5e5350ebf")
 	)
 	(gr_circle
@@ -6803,8 +6765,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "01437dcb-e4bb-44d8-b1bd-63a6b18c5756")
 	)
 	(gr_circle
@@ -6815,8 +6776,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "a3e31abe-db4c-4e2f-8f7f-03be5bda36da")
 	)
 	(gr_circle
@@ -6969,8 +6929,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "35303b6c-de7d-4488-a8d4-5639406c3758")
 	)
 	(gr_circle
@@ -7077,8 +7036,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "b8470a63-8af6-4619-a8a5-f77fdc3881cd")
 	)
 	(gr_circle
@@ -7089,8 +7047,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "1bcc7e0b-4388-49a4-9790-c4fb4a5a58e1")
 	)
 	(gr_circle
@@ -7113,8 +7070,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "88a434be-0336-48e4-ba33-59302a8ca074")
 	)
 	(gr_circle
@@ -7173,8 +7129,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "098bf8b9-aa2b-4ffe-abf3-05f516c8630a")
 	)
 	(gr_circle
@@ -7245,8 +7200,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "daf26992-b9f8-48df-9bb2-961db1ce8ccf")
 	)
 	(gr_circle
@@ -7257,8 +7211,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "7dbcf244-53af-464a-8e49-680e97c27681")
 	)
 	(gr_circle
@@ -7425,8 +7378,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "6ea9025f-f45f-41ad-b5da-c81bf980d1bf")
 	)
 	(gr_circle
@@ -7591,8 +7543,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "06340567-7bc3-42b8-95f9-c808206a9c93")
 	)
 	(gr_circle
@@ -7711,8 +7662,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "2b4341b5-43b2-4355-9441-a9678629ced4")
 	)
 	(gr_circle
@@ -7723,8 +7673,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "bbf58aea-1134-4709-9d24-972d14726180")
 	)
 	(gr_circle
@@ -7747,8 +7696,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "80518f5d-872a-4490-94fa-e63b3366e847")
 	)
 	(gr_circle
@@ -7818,8 +7766,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "a65fafb9-b07b-4741-89aa-7124381fe1c5")
 	)
 	(gr_circle
@@ -7842,8 +7789,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "0a6101e0-951b-4134-b73f-10757748e7d0")
 	)
 	(gr_circle
@@ -7973,8 +7919,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "fc3b48c4-1180-4518-b1e3-058dff608db1")
 	)
 	(gr_circle
@@ -8126,8 +8071,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "3e5b3365-419e-43eb-9dad-0e0864341b30")
 	)
 	(gr_circle
@@ -8138,8 +8082,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "b046d71a-6c9f-4b5e-8386-b5f5a46b14dc")
 	)
 	(gr_circle
@@ -8246,8 +8189,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "426f2c35-884c-40cd-858d-78be9057a49c")
 	)
 	(gr_circle
@@ -8304,8 +8246,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "eaaa0a2d-d714-4d88-998c-097377be866e")
 	)
 	(gr_circle
@@ -8351,8 +8292,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "16a375d1-c405-4ce8-8ff0-93ca8e117a9c")
 	)
 	(gr_circle
@@ -8447,8 +8387,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "8e06eb0b-753f-487d-a82b-cdd1488ec76e")
 	)
 	(gr_circle
@@ -8482,8 +8421,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "2e820a3d-20a2-493b-bdbb-06b54c3f9dd4")
 	)
 	(gr_circle
@@ -8566,8 +8504,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "8fd37da3-5470-440f-8ab7-3e4d243d241f")
 	)
 	(gr_circle
@@ -8613,8 +8550,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "e67b57ce-7efa-4318-ac33-612e3c28238d")
 	)
 	(gr_circle
@@ -8673,8 +8609,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "e67806e4-641a-407f-9fd6-3006193a5f74")
 	)
 	(gr_circle
@@ -8685,8 +8620,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "cd92ea7f-6c83-4395-9934-adc834f983d2")
 	)
 	(gr_circle
@@ -8793,8 +8727,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "077a89ed-5db7-401d-aea7-f051a357f44d")
 	)
 	(gr_circle
@@ -8805,8 +8738,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "602cdac2-cd54-4fee-971a-b0e02b7aba5d")
 	)
 	(gr_circle
@@ -8829,8 +8761,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "bfa818b7-359b-4036-9655-99e903e7f129")
 	)
 	(gr_circle
@@ -8853,8 +8784,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "8a36fe75-03a1-48d8-9c68-79117e2ee532")
 	)
 	(gr_circle
@@ -8889,8 +8819,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "f34305f6-eeda-4166-91f9-d18efa53a2ba")
 	)
 	(gr_circle
@@ -9055,8 +8984,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "b46902f0-096c-465a-ab6c-9fc25fac6aa2")
 	)
 	(gr_circle
@@ -9067,8 +8995,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "239a23b9-dd75-4ffc-825a-b715593970b6")
 	)
 	(gr_circle
@@ -9079,8 +9006,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "2667f242-3885-42e5-a6fa-a619afc46bde")
 	)
 	(gr_circle
@@ -9091,8 +9017,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "ccf865fd-48a1-496a-8787-f0cd5011cc16")
 	)
 	(gr_circle
@@ -9115,8 +9040,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "9bdef8d7-70d7-4b32-ae6b-6dbba27a5a0c")
 	)
 	(gr_circle
@@ -9187,8 +9111,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "075d41c1-0400-4ff1-b715-a41967c7bce3")
 	)
 	(gr_circle
@@ -9211,8 +9134,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "f75f1272-aa0a-4966-832b-46cc0678b6ee")
 	)
 	(gr_circle
@@ -9223,8 +9145,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "89fbbe27-c54e-4b5b-b5a6-c0ea53292fda")
 	)
 	(gr_circle
@@ -9236,7 +9157,6 @@
 		)
 		(fill yes)
 		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
 		(uuid "7b63eaec-ca75-4bfe-8d5f-050c37e422e7")
 	)
 	(gr_circle
@@ -9379,8 +9299,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "7e4e0e95-dc5b-4dc5-894d-32ccc225649f")
 	)
 	(gr_circle
@@ -9462,8 +9381,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "83c5565d-c584-486d-84e2-f64266d97ae1")
 	)
 	(gr_circle
@@ -9474,8 +9392,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "43d1ae82-2514-4549-a5a7-f2ad544a738e")
 	)
 	(gr_circle
@@ -9486,8 +9403,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "ae2a491b-8f0e-46a0-8449-2bbf8d2df541")
 	)
 	(gr_circle
@@ -9510,8 +9426,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "ca130a94-1e0f-463c-b212-d4434fd611dc")
 	)
 	(gr_circle
@@ -9723,8 +9638,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "284e8669-1840-4935-99cd-9c831843d1a9")
 	)
 	(gr_circle
@@ -10137,8 +10051,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "f01a7dad-e328-4ea6-b1cb-417a63c578b1")
 	)
 	(gr_circle
@@ -10149,8 +10062,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "96346c65-e6e4-4792-9d14-8b456056463a")
 	)
 	(gr_circle
@@ -10184,8 +10096,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "ce53d25d-14d9-4211-b009-26a5fd3d7559")
 	)
 	(gr_circle
@@ -10304,8 +10215,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "91319c50-83d1-4e00-aa77-c72db39ca652")
 	)
 	(gr_circle
@@ -10316,8 +10226,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "d4daddec-82f5-470e-88af-9b405714d282")
 	)
 	(gr_circle
@@ -10328,8 +10237,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "b9ae039c-d2be-4054-a636-273032e370e2")
 	)
 	(gr_circle
@@ -10399,8 +10307,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "555762a0-4805-461c-a3be-b4ffb2c6012f")
 	)
 	(gr_circle
@@ -10519,8 +10426,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "41e35174-73d9-48af-8107-2355071b84c4")
 	)
 	(gr_circle
@@ -10639,8 +10545,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "920aeccf-bc49-4b93-b156-23a89d772860")
 	)
 	(gr_circle
@@ -10722,8 +10627,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "697c44ea-9841-4ecf-b6c7-0a7eab4d97e0")
 	)
 	(gr_circle
@@ -10745,8 +10649,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "a4b8e367-501d-43d2-ae70-82737f1c6780")
 	)
 	(gr_circle
@@ -10829,8 +10732,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "24080a8b-25e0-4f2d-b6ab-81ed99ef1967")
 	)
 	(gr_circle
@@ -10937,8 +10839,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "c4e6afcd-8fa7-4406-822f-4e33691fafd0")
 	)
 	(gr_circle
@@ -10949,8 +10850,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "877a8aa2-d4eb-403c-866e-40ccb5813999")
 	)
 	(gr_circle
@@ -10984,8 +10884,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "a657ecc3-f255-4b26-8901-f752e55e21eb")
 	)
 	(gr_circle
@@ -11019,8 +10918,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "3745b865-38fb-482d-9a67-c111613206ed")
 	)
 	(gr_circle
@@ -11031,8 +10929,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "adefadb3-96d6-48be-8a7b-b6034c9b38b6")
 	)
 	(gr_circle
@@ -11043,8 +10940,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "394b5991-a236-44d1-b47a-817e7f4fede2")
 	)
 	(gr_circle
@@ -11055,8 +10951,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "ebf8b171-6d3d-4431-8026-62fbe31906ff")
 	)
 	(gr_circle
@@ -11342,8 +11237,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "7037753e-9f1f-4e42-a379-03000c5c5ecd")
 	)
 	(gr_circle
@@ -11425,8 +11319,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "ab7121e5-7fab-47f1-b465-6621581fc30e")
 	)
 	(gr_circle
@@ -11461,8 +11354,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "bf3b7730-3642-4ec0-8be3-6ac8be374406")
 	)
 	(gr_circle
@@ -11639,8 +11531,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "2a14271d-bccd-4b2d-92ec-48259c6d296e")
 	)
 	(gr_circle
@@ -11675,8 +11566,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "b6f9ba84-6cd5-490f-be0f-39ff49a75b1b")
 	)
 	(gr_circle
@@ -11807,8 +11697,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "c3a3076c-bbd8-4f2b-a500-f96f7fc5b913")
 	)
 	(gr_circle
@@ -11926,8 +11815,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "cddf5398-f360-4265-a254-5d063350bd90")
 	)
 	(gr_circle
@@ -11938,8 +11826,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "8f01b819-f4db-4831-8997-d3b8983498e9")
 	)
 	(gr_circle
@@ -12010,8 +11897,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "2a801779-83da-466a-a4f9-8222322061b1")
 	)
 	(gr_circle
@@ -12082,8 +11968,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "6adce3f5-0161-4b83-abbc-acd263010b21")
 	)
 	(gr_circle
@@ -12429,8 +12314,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "d3e7d9d5-d186-4c03-9ae9-1fb16e0649e5")
 	)
 	(gr_circle
@@ -12476,8 +12360,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "1d356fab-b694-4acb-b102-70346f6bd9cf")
 	)
 	(gr_circle
@@ -12488,8 +12371,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "b175fba4-7806-4bfd-a5d6-6c5f0f9ad709")
 	)
 	(gr_circle
@@ -12656,8 +12538,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "8eeb5511-bc88-4c0c-9093-860084eeabe5")
 	)
 	(gr_circle
@@ -12668,8 +12549,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "6fd72ee4-885a-491a-8f29-0bd585cb5392")
 	)
 	(gr_circle
@@ -13229,8 +13109,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "a9862aff-8115-4247-a937-c111106c9765")
 	)
 	(gr_circle
@@ -13241,8 +13120,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "97ec37a8-ef2e-4cb6-8313-4dfa4064603b")
 	)
 	(gr_circle
@@ -13504,8 +13382,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "f9418e97-ee71-4045-bc5e-51dab6d88673")
 	)
 	(gr_circle
@@ -13552,8 +13429,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "38bbc1c5-933c-4986-aef7-f72955c6b8b3")
 	)
 	(gr_circle
@@ -13683,8 +13559,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "56e1512d-1303-42a9-a570-49ac54af868b")
 	)
 	(gr_circle
@@ -13862,8 +13737,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "c25be3ad-f787-4f76-968b-fdd2c2df93ad")
 	)
 	(gr_circle
@@ -13874,8 +13748,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "c6806579-7720-433e-a77f-de9ebb2d9f54")
 	)
 	(gr_circle
@@ -13994,8 +13867,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "9c02c582-1707-4d2b-a393-68a41a080bbf")
 	)
 	(gr_circle
@@ -14234,8 +14106,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "a38a4d63-ab52-4d7c-8b41-484e4d0b107b")
 	)
 	(gr_circle
@@ -14270,8 +14141,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "55fcf73d-efac-4779-a9bd-8b6b548d0950")
 	)
 	(gr_circle
@@ -14282,8 +14152,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "d975239e-b94c-4fe4-ab49-9a57bf562b86")
 	)
 	(gr_circle
@@ -14306,8 +14175,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "d8640960-cbb2-457f-844f-21f98ea46eba")
 	)
 	(gr_circle
@@ -14366,8 +14234,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "1d428b2c-175f-45ab-aa0b-2c63c759b04e")
 	)
 	(gr_circle
@@ -14402,8 +14269,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "b827d6f3-af6b-4445-abcc-79ca192f2af9")
 	)
 	(gr_circle
@@ -14426,8 +14292,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "6be8384e-cb7c-4df2-8608-8a1bbda4b540")
 	)
 	(gr_circle
@@ -14438,8 +14303,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "1cf6702a-42d2-4918-b670-f387d8e05dae")
 	)
 	(gr_circle
@@ -14450,8 +14314,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "903daee7-e00f-44c1-a79f-01951099aa98")
 	)
 	(gr_circle
@@ -14462,8 +14325,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "443b79c8-30e7-4b92-837b-9dd23418fe49")
 	)
 	(gr_circle
@@ -14486,8 +14348,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "77b1d826-6eae-4d92-b3a0-811b36751cac")
 	)
 	(gr_circle
@@ -14510,8 +14371,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "5c6b9058-f8d4-4bb0-aaf2-63e07b781ea7")
 	)
 	(gr_circle
@@ -14522,8 +14382,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "9da23427-0776-4962-8c3e-7facc9121bce")
 	)
 	(gr_circle
@@ -14534,8 +14393,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "10acef66-f3bd-435e-a6ce-6b54b468b52f")
 	)
 	(gr_circle
@@ -14546,8 +14404,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "0fbae998-b497-4bd7-a407-eefd70997322")
 	)
 	(gr_circle
@@ -14570,8 +14427,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "a3ae273f-9db6-40f5-9c06-67ea1840029c")
 	)
 	(gr_circle
@@ -14582,8 +14438,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "12059861-eab9-4821-86ad-15eb1ff9c02a")
 	)
 	(gr_circle
@@ -14606,8 +14461,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "8b2552b7-2f6b-47c8-88d6-575e4cc3a377")
 	)
 	(gr_circle
@@ -14678,8 +14532,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "45ca61e4-7a3e-4c8a-9ac9-b70cfaa1b98b")
 	)
 	(gr_circle
@@ -14690,8 +14543,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "a3c86d83-32b3-4ce4-b136-2c6faa54fcaf")
 	)
 	(gr_circle
@@ -14702,8 +14554,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "c9baba46-2593-4e3d-92f4-00e161d46b6f")
 	)
 	(gr_circle
@@ -14714,8 +14565,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "3828a880-f907-45e1-bcd4-6896a8fb43ec")
 	)
 	(gr_circle
@@ -14726,8 +14576,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "2592e869-0e3c-4904-bd5a-61540ff55c3c")
 	)
 	(gr_circle
@@ -14750,8 +14599,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "45e23f00-e3cb-416d-8287-ce6b7e12e622")
 	)
 	(gr_circle
@@ -14762,8 +14610,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "6cbe8204-5178-484f-9146-58c84e8c7a67")
 	)
 	(gr_circle
@@ -14774,8 +14621,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "712d6640-6218-4f77-a7e0-9e55b520dc9f")
 	)
 	(gr_circle
@@ -14966,8 +14812,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "77633ce0-6f0a-48ee-b411-05e74d00023a")
 	)
 	(gr_circle
@@ -14990,8 +14835,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "2d43662d-dc3a-48f6-841e-793a2d0e2105")
 	)
 	(gr_circle
@@ -15014,8 +14858,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "9efa16a9-1839-48eb-a4cf-3014dda8dea0")
 	)
 	(gr_circle
@@ -15086,8 +14929,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "e537f688-166b-4f83-88db-76901a14d4a9")
 	)
 	(gr_circle
@@ -15134,8 +14976,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "bc709c32-e0da-4f60-bb14-717b4b3ee2d7")
 	)
 	(gr_circle
@@ -15146,8 +14987,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "d52ebff3-8d93-4047-8c91-8df937c58ae3")
 	)
 	(gr_circle
@@ -15242,8 +15082,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "ed268ab5-bd2c-478d-ae9b-e0e780a4eef9")
 	)
 	(gr_circle
@@ -15398,8 +15237,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "e7288e1c-bb08-474a-90d1-13a8971cf91d")
 	)
 	(gr_circle
@@ -15410,8 +15248,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "4b801f3b-c42f-4d43-a9d1-a0715e2e0a87")
 	)
 	(gr_circle
@@ -15482,8 +15319,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "babf986d-930f-4094-bb28-4894ee375bb0")
 	)
 	(gr_circle
@@ -15494,8 +15330,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "baa919d4-c252-4c4e-a82f-f2dce2fa920c")
 	)
 	(gr_circle
@@ -15754,8 +15589,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "84a7ce53-d605-40a9-8356-eb468f7903fd")
 	)
 	(gr_circle
@@ -16018,8 +15852,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "a8daf226-676b-4e8b-a1e6-38725ee194ce")
 	)
 	(gr_circle
@@ -16078,8 +15911,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "fd380d3b-5bdb-43ed-998e-c7a67b3fd42f")
 	)
 	(gr_circle
@@ -16581,8 +16413,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "d4123194-b036-4f78-b05e-552c4b1b3abf")
 	)
 	(gr_circle
@@ -18452,8 +18283,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "e11652b8-9cb1-42e9-b22a-4c1186ff974d")
 	)
 	(gr_circle
@@ -18895,8 +18725,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "4bf8dbb4-cd2b-41e5-a80b-216b78242bb3")
 	)
 	(gr_circle
@@ -18955,8 +18784,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "368f6319-f2ef-45c5-b3fe-685a1d050018")
 	)
 	(gr_circle
@@ -19003,8 +18831,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "83833583-400e-4e64-8f63-933dfd65068a")
 	)
 	(gr_circle
@@ -19039,8 +18866,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "4bf4f817-30cb-435f-9fad-8a9f2ddb744e")
 	)
 	(gr_circle
@@ -19087,8 +18913,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "F.Cu" "F.Mask")
-		(solder_mask_margin 0.15)
+		(layer "F.Cu")
 		(uuid "7752a0a0-3856-4c8c-9a53-0ada6d0bfe52")
 	)
 	(gr_circle
@@ -20379,8 +20204,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "f5db0d07-fa06-4a7d-a196-3f93d8e97e7d")
 	)
 	(gr_circle
@@ -20391,8 +20215,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "1deb8267-2d68-4074-ba99-a90b6c20320a")
 	)
 	(gr_circle
@@ -20569,8 +20392,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "5c650e58-25c8-4e6e-9905-04e57964edc1")
 	)
 	(gr_circle
@@ -20665,8 +20487,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "649df066-bc7a-4bb3-b974-53f57779089d")
 	)
 	(gr_circle
@@ -20724,8 +20545,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "fa5fa343-e035-4d04-b445-05d0e5a99448")
 	)
 	(gr_circle
@@ -20760,8 +20580,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "5f69f672-23a2-48fc-a69e-030a4c54834b")
 	)
 	(gr_circle
@@ -20904,8 +20723,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "c006d275-4895-480c-a384-7e6146685c39")
 	)
 	(gr_circle
@@ -21000,8 +20818,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "932e4064-bef8-4c33-97c4-e55f0d257b92")
 	)
 	(gr_circle
@@ -21444,8 +21261,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "a468680f-5934-4089-87f6-f037683847a6")
 	)
 	(gr_circle
@@ -21551,8 +21367,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "d419f2eb-f98f-4cb4-ac4e-cba5df429a59")
 	)
 	(gr_circle
@@ -21654,8 +21469,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "6a64a0c2-1db9-4ba7-80b1-5d2822827e32")
 	)
 	(gr_circle
@@ -21689,8 +21503,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "96bc556d-36f4-402d-beee-dcdcbd1fbcf5")
 	)
 	(gr_circle
@@ -21737,8 +21550,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "41e31bba-4e85-40ee-bceb-35e5f1b64477")
 	)
 	(gr_circle
@@ -21977,8 +21789,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "ba5a57f4-1dc4-48cc-b943-3f03ce98071b")
 	)
 	(gr_circle
@@ -21989,8 +21800,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "341e9132-920c-4843-a5ae-0dd949a5e0bc")
 	)
 	(gr_circle
@@ -22001,8 +21811,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "2c6ba508-9dc1-4ae8-9f36-dd0ed57879ef")
 	)
 	(gr_circle
@@ -22109,8 +21918,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "7050c7fc-4c93-4ed9-8026-a32dbdba8485")
 	)
 	(gr_circle
@@ -22241,8 +22049,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "9ad62830-3a66-4f30-b93f-c7de3beee4f1")
 	)
 	(gr_circle
@@ -22612,8 +22419,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "a80a47d3-45de-463a-916d-643e59d0aa98")
 	)
 	(gr_circle
@@ -22624,8 +22430,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "2414e159-44bc-4773-936e-6ced612e58df")
 	)
 	(gr_circle
@@ -22720,8 +22525,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "d1a7d228-8e94-4fcd-af44-02ce5831f7c1")
 	)
 	(gr_circle
@@ -23265,8 +23069,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "4470d84a-196d-4600-8079-eee4b7e164cb")
 	)
 	(gr_circle
@@ -23372,8 +23175,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "f41f3b18-3b15-4305-a378-f5a24293507d")
 	)
 	(gr_circle
@@ -23432,8 +23234,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "feabcd2d-bd87-44bd-88d5-9b4968c32d2b")
 	)
 	(gr_circle
@@ -23660,8 +23461,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "84f220e8-0f75-44aa-8cbd-f2db7764e576")
 	)
 	(gr_circle
@@ -23708,8 +23508,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "b3041a12-da1e-40b2-aa18-4aac0c120179")
 	)
 	(gr_circle
@@ -23720,8 +23519,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "92f9656c-3475-4b82-afe2-f2a88e321fed")
 	)
 	(gr_circle
@@ -23756,8 +23554,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "d6b9ab71-a079-4024-83ec-7001ef5254af")
 	)
 	(gr_circle
@@ -23792,8 +23589,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "a8733b54-314c-4298-b849-0bde442cd4fe")
 	)
 	(gr_circle
@@ -23816,8 +23612,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "585746ae-2024-42fa-b7a6-c90f062502f2")
 	)
 	(gr_circle
@@ -23935,8 +23730,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "7891dd33-3469-49de-b8a1-df9b67ddff6c")
 	)
 	(gr_circle
@@ -23983,8 +23777,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "f741cff2-6baf-4b45-a1c9-161c5035370f")
 	)
 	(gr_circle
@@ -24007,8 +23800,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "fd86fcd2-f3f1-4c6f-aadb-8ac367cf7933")
 	)
 	(gr_circle
@@ -24043,8 +23835,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "daf60449-34f5-4bdc-8b8c-451f49ec7148")
 	)
 	(gr_circle
@@ -24055,8 +23846,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "8a42f54a-d88d-4fcd-aac0-1c40411905d3")
 	)
 	(gr_circle
@@ -24199,8 +23989,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "93146b81-9545-4460-bc62-b744811a4a0e")
 	)
 	(gr_circle
@@ -24461,8 +24250,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "9b45b898-57ef-4429-9dd0-a4a62724479b")
 	)
 	(gr_circle
@@ -24484,8 +24272,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "7434bba3-3f94-488b-8c42-0e1bce45e2f6")
 	)
 	(gr_circle
@@ -24735,8 +24522,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "0cee7a72-743d-4af5-ae8c-182a3889c499")
 	)
 	(gr_circle
@@ -24747,8 +24533,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "c8f2b1a4-4f0d-434e-baf0-00702a007bd2")
 	)
 	(gr_circle
@@ -24901,8 +24686,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "f6a5db4b-7f47-49d5-9cd6-5f6c59f01a76")
 	)
 	(gr_circle
@@ -25009,8 +24793,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "aaa49861-ea6b-4c39-b6a3-58eb3ef1ced0")
 	)
 	(gr_circle
@@ -25021,8 +24804,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "2f37f728-7e6e-484d-9179-12dab76bf43f")
 	)
 	(gr_circle
@@ -25045,8 +24827,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "6a543dd3-d0f0-4e78-bda4-9872ce3ac822")
 	)
 	(gr_circle
@@ -25105,8 +24886,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "c4822eda-109c-40dd-a4bb-08c33c5c9a2a")
 	)
 	(gr_circle
@@ -25177,8 +24957,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "562ef783-b73e-49d6-854a-7d5cf0f453ad")
 	)
 	(gr_circle
@@ -25189,8 +24968,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "bfd88899-a142-4ff6-8b35-dccf40f45b39")
 	)
 	(gr_circle
@@ -25357,8 +25135,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "d67fb7eb-453e-47fc-a9f6-2879b2763dec")
 	)
 	(gr_circle
@@ -25523,8 +25300,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "a9ba543d-2681-4d3d-9b15-2d8a2e055ef1")
 	)
 	(gr_circle
@@ -25643,8 +25419,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "d25399df-b408-499f-8b9d-0756650061bc")
 	)
 	(gr_circle
@@ -25655,8 +25430,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "982da60a-e9cb-4359-b737-01daaedf104c")
 	)
 	(gr_circle
@@ -25679,8 +25453,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "5f6ebfd1-86a4-4c30-b073-0bdd29f664bc")
 	)
 	(gr_circle
@@ -25750,8 +25523,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "797b0092-9f37-4210-ba13-d9b3582bc840")
 	)
 	(gr_circle
@@ -25774,8 +25546,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "0f1e8bb5-dc1e-4677-b992-421f4ffd581d")
 	)
 	(gr_circle
@@ -25905,8 +25676,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "02bdbd97-acf6-44cb-8242-714abe4f7c37")
 	)
 	(gr_circle
@@ -26058,8 +25828,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "8fa8c12e-3328-4320-9e74-791aa39e2d81")
 	)
 	(gr_circle
@@ -26070,8 +25839,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "a01a6a3f-8ea0-4ec2-bbde-4d6929f49509")
 	)
 	(gr_circle
@@ -26178,8 +25946,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "3aa69073-cac7-475e-8f38-4d8828b72d83")
 	)
 	(gr_circle
@@ -26236,8 +26003,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "c0d90dbd-a3d6-4afb-baa4-52e331c289a4")
 	)
 	(gr_circle
@@ -26283,8 +26049,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "72a7f2fe-70d7-4e49-9a3e-c68249df8ef6")
 	)
 	(gr_circle
@@ -26379,8 +26144,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "7ef6cf74-d9e1-4cbc-b98f-65fadd7f4d92")
 	)
 	(gr_circle
@@ -26414,8 +26178,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "ee77c171-6137-4cb4-a942-3c889d3d03c7")
 	)
 	(gr_circle
@@ -26498,8 +26261,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "166b4095-776d-47fc-9525-5ffa241969cb")
 	)
 	(gr_circle
@@ -26545,8 +26307,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "3f56f017-a2df-4d2c-b12c-dfb1dbf4d612")
 	)
 	(gr_circle
@@ -26605,8 +26366,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "459950dd-3af4-45ea-89a6-15ce5a630c18")
 	)
 	(gr_circle
@@ -26617,8 +26377,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "40ec8bf8-a48c-4ca8-81b8-b25591fede8b")
 	)
 	(gr_circle
@@ -26725,8 +26484,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "7071876f-1bb1-4534-830e-4d148268d1a7")
 	)
 	(gr_circle
@@ -26737,8 +26495,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "997dab8c-f1c1-4e08-bcc6-0427ecaad1d4")
 	)
 	(gr_circle
@@ -26761,8 +26518,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "d3103393-006e-4c50-bd03-8e6cd550ead5")
 	)
 	(gr_circle
@@ -26785,8 +26541,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "f6a11c5e-3b3d-43b3-b9d7-ac6717d95491")
 	)
 	(gr_circle
@@ -26821,8 +26576,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "21314471-58af-4591-936b-c5bf3618c2eb")
 	)
 	(gr_circle
@@ -26987,8 +26741,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "1d097134-092c-4b60-ae11-6d3fdacd9bac")
 	)
 	(gr_circle
@@ -26999,8 +26752,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "46223ef0-ee1c-4068-ba18-0c776663bfc3")
 	)
 	(gr_circle
@@ -27011,8 +26763,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "a32146e1-468a-4c5c-9cbc-dde8a63d524f")
 	)
 	(gr_circle
@@ -27023,8 +26774,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "5796f54a-ca1d-4b45-8c64-22cce5a8bb9e")
 	)
 	(gr_circle
@@ -27047,8 +26797,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "e13c2a22-8de5-40de-97c0-37009438a128")
 	)
 	(gr_circle
@@ -27119,8 +26868,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "1e8ae970-a5af-455e-b3aa-af2323fcb160")
 	)
 	(gr_circle
@@ -27143,8 +26891,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "0d2dac27-4195-4593-8c4c-6d076e8cf442")
 	)
 	(gr_circle
@@ -27155,8 +26902,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "28bf2596-80a9-462e-96bc-e26e2ff98cd3")
 	)
 	(gr_circle
@@ -27311,8 +27057,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "fe104a58-4936-4d48-b731-d8c69d96a7eb")
 	)
 	(gr_circle
@@ -27394,8 +27139,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "63c88d78-0614-4193-9344-414e0d76db10")
 	)
 	(gr_circle
@@ -27406,8 +27150,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "73414105-cfdd-4fc7-8266-363f94b9981c")
 	)
 	(gr_circle
@@ -27418,8 +27161,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "22ffa612-8342-44ce-a6c4-1c7b6d090f76")
 	)
 	(gr_circle
@@ -27442,8 +27184,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "f1c11c98-a143-49d5-81ee-e563f6e8916a")
 	)
 	(gr_circle
@@ -27655,8 +27396,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "6a677b68-c5a2-4660-a8e1-e73d60dd2f2e")
 	)
 	(gr_circle
@@ -28069,8 +27809,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "a718961c-d48c-405f-a026-1f20bdcf50e9")
 	)
 	(gr_circle
@@ -28081,8 +27820,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "8a16bc8c-0b92-49a6-af03-232be61af9a4")
 	)
 	(gr_circle
@@ -28116,8 +27854,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "bf884ced-3c93-467f-bc0d-6cc030f23295")
 	)
 	(gr_circle
@@ -28236,8 +27973,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "d97634b8-88e8-42a5-befc-bce94155220a")
 	)
 	(gr_circle
@@ -28248,8 +27984,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "51cfa7e2-fa2a-4e0e-bcd7-99deee495d62")
 	)
 	(gr_circle
@@ -28260,8 +27995,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "df8c7d5e-5c1e-495d-9c2d-de80e8759109")
 	)
 	(gr_circle
@@ -28331,8 +28065,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "7912efee-6501-4710-b682-fba0e386d0da")
 	)
 	(gr_circle
@@ -28451,8 +28184,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "7a3aa5ee-4e58-4dc5-90b4-4720fb906142")
 	)
 	(gr_circle
@@ -28571,8 +28303,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "8a22e494-e966-4997-88a0-061ee407ca53")
 	)
 	(gr_circle
@@ -28654,8 +28385,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "18eed2ca-bc87-4220-98d3-c2551d5a78ae")
 	)
 	(gr_circle
@@ -28677,8 +28407,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "d66c30fa-892c-4dfd-ac00-87f62e2a626d")
 	)
 	(gr_circle
@@ -28761,8 +28490,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "98c20259-c900-4391-8afd-ceb0c43fdf48")
 	)
 	(gr_circle
@@ -28869,8 +28597,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "f66898c3-a267-4b9d-a405-b062ff067491")
 	)
 	(gr_circle
@@ -28881,8 +28608,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "25d50b97-825d-4e4a-95d8-dc1449e96fd3")
 	)
 	(gr_circle
@@ -28916,8 +28642,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "01d1b55b-ef4e-4d7f-b64e-f229243faf25")
 	)
 	(gr_circle
@@ -28951,8 +28676,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "92ea0ef9-f10e-4a84-85a2-53708b453e50")
 	)
 	(gr_circle
@@ -28963,8 +28687,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "918df00c-c6d1-4bca-b48a-134328182379")
 	)
 	(gr_circle
@@ -28975,8 +28698,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "06bc2eed-6a05-4529-a5cc-b7a565e43d54")
 	)
 	(gr_circle
@@ -28987,8 +28709,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "902bfe9b-2625-4b43-aa45-2708e8513f85")
 	)
 	(gr_circle
@@ -29274,8 +28995,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "5a6f77c2-b4b9-4023-b247-6d1714e81d45")
 	)
 	(gr_circle
@@ -29357,8 +29077,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "a2b62e2a-c132-4044-99bf-8a9f9966b322")
 	)
 	(gr_circle
@@ -29393,8 +29112,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "8f53f4c1-43ac-476a-8861-4d256b1bf9de")
 	)
 	(gr_circle
@@ -29573,8 +29291,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "7dcb231b-8549-411c-a10d-48bfc44119f8")
 	)
 	(gr_circle
@@ -29609,8 +29326,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "3e4cfd48-24ab-45d7-b96a-bfc3c7a922e5")
 	)
 	(gr_circle
@@ -29741,8 +29457,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "8c653992-8ca2-4d73-b325-04ed6fb9233b")
 	)
 	(gr_circle
@@ -29860,8 +29575,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "3a6069ac-2dc6-4371-92c3-9f97f8325e93")
 	)
 	(gr_circle
@@ -29872,8 +29586,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "b4a19c86-75af-40e6-b395-d989964dd53f")
 	)
 	(gr_circle
@@ -29944,8 +29657,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "631e9ecc-8c71-4ea0-b1c3-2909f7c35231")
 	)
 	(gr_circle
@@ -30016,8 +29728,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "82b8954c-ad48-419b-a32f-865792a28869")
 	)
 	(gr_circle
@@ -30363,8 +30074,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "e96e5208-530a-4414-9713-3b6ae37da22e")
 	)
 	(gr_circle
@@ -30410,8 +30120,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "abbca730-98ec-4bde-a2fe-f51b092c9376")
 	)
 	(gr_circle
@@ -30422,8 +30131,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "78ec2019-3a1b-40a7-8b23-e372003f62b4")
 	)
 	(gr_circle
@@ -30590,8 +30298,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "9daac983-bef7-4c42-8487-29c19aab7167")
 	)
 	(gr_circle
@@ -30602,8 +30309,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "f06d2ebf-05cc-4827-9309-94595a2fa344")
 	)
 	(gr_circle
@@ -31163,8 +30869,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "8dc996d7-9437-47c2-a749-7afc8da600ea")
 	)
 	(gr_circle
@@ -31175,8 +30880,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "b5ca7711-a93b-4598-b4ae-df74f437b311")
 	)
 	(gr_circle
@@ -31438,8 +31142,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "6d7484f4-0af9-411f-916e-fbc0feb85d8c")
 	)
 	(gr_circle
@@ -31486,8 +31189,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "c380d205-605e-4943-b0d3-0a6724e0e1c5")
 	)
 	(gr_circle
@@ -31617,8 +31319,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "47b76e5f-1c31-4ec9-bdc5-2a1a5a6845a2")
 	)
 	(gr_circle
@@ -31796,8 +31497,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "a56e2e4f-0a90-453a-85b6-21d4d7158372")
 	)
 	(gr_circle
@@ -31808,8 +31508,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "f69adb8f-56f7-48a0-a012-81be5478cacd")
 	)
 	(gr_circle
@@ -31928,8 +31627,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "e800a79a-bb9e-4264-8925-1470d668109a")
 	)
 	(gr_circle
@@ -32168,8 +31866,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "e70e8fbe-c74d-4289-a71d-99518e51490e")
 	)
 	(gr_circle
@@ -32204,8 +31901,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "138bcfc0-2896-4ec2-90ed-2578e566d1b3")
 	)
 	(gr_circle
@@ -32216,8 +31912,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "334889d3-bbce-485d-a307-5c71c8a0dfd2")
 	)
 	(gr_circle
@@ -32240,8 +31935,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "e7ce0757-5094-4edc-89b9-7d97853e8b6b")
 	)
 	(gr_circle
@@ -32300,8 +31994,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "32ff9381-7ffd-4f5f-a03c-0dad1f45a23e")
 	)
 	(gr_circle
@@ -32336,8 +32029,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "263332a7-f883-42f1-b427-fa4d4bf99e02")
 	)
 	(gr_circle
@@ -32360,8 +32052,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "75dde168-568e-4de7-a96b-321fbcf4ca5b")
 	)
 	(gr_circle
@@ -32372,8 +32063,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "039a0a56-7802-4893-958c-27c7c8aeebc2")
 	)
 	(gr_circle
@@ -32384,8 +32074,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "778332ec-43a8-4fb3-9146-101357440e8b")
 	)
 	(gr_circle
@@ -32396,8 +32085,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "a64316d9-c578-4f8d-954a-79da00eb92ae")
 	)
 	(gr_circle
@@ -32420,8 +32108,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "80ff925c-81f2-43e4-b5a1-7494664bf935")
 	)
 	(gr_circle
@@ -32444,8 +32131,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "07f2f715-23c4-4c60-b41c-ed8bcf28a6ea")
 	)
 	(gr_circle
@@ -32456,8 +32142,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "b27916f6-3436-4733-a404-4de076073270")
 	)
 	(gr_circle
@@ -32468,8 +32153,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "5d9a8de4-7d75-46a7-a72e-69657dababd1")
 	)
 	(gr_circle
@@ -32480,8 +32164,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "529707d2-6b56-4c72-b183-cd5fced30c94")
 	)
 	(gr_circle
@@ -32504,8 +32187,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "8b9f9b24-972c-46cb-a155-00a801b4dba8")
 	)
 	(gr_circle
@@ -32516,8 +32198,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "d150be98-1676-4418-8949-7f32f3f8aba4")
 	)
 	(gr_circle
@@ -32540,8 +32221,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "c715058e-241a-4ce3-ab16-07300d7e8642")
 	)
 	(gr_circle
@@ -32612,8 +32292,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "4936bc19-d7eb-4052-a46f-8a208bd8797b")
 	)
 	(gr_circle
@@ -32624,8 +32303,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "1aadf4a8-b162-4bee-8ffc-ed0cef1555f1")
 	)
 	(gr_circle
@@ -32636,8 +32314,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "ca39be59-a768-4a70-b8c7-a2fb94a92d8b")
 	)
 	(gr_circle
@@ -32648,8 +32325,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "d1ff0b73-334f-445a-b87a-c8e6baa016fb")
 	)
 	(gr_circle
@@ -32660,8 +32336,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "490b6399-a56a-48b3-8f92-b1cd99b08639")
 	)
 	(gr_circle
@@ -32684,8 +32359,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "a0de709e-dba4-4895-a4d1-c31ae5942920")
 	)
 	(gr_circle
@@ -32696,8 +32370,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "15e2c94e-a7e1-4bc5-b3d5-c64bc51b8014")
 	)
 	(gr_circle
@@ -32708,8 +32381,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "1b5cff15-bf12-4fb9-82a0-060394f30573")
 	)
 	(gr_circle
@@ -32900,8 +32572,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "93a947be-2f7a-418e-8692-14b8dcaa99a2")
 	)
 	(gr_circle
@@ -32924,8 +32595,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "2bf4e35b-5f45-456b-8db8-e82a1deee6d2")
 	)
 	(gr_circle
@@ -32948,8 +32618,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "29f1a664-ad75-419e-8248-a14a604fa3e3")
 	)
 	(gr_circle
@@ -33020,8 +32689,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "e7e76cd7-11fc-42a6-aad7-1e3d63a3c69a")
 	)
 	(gr_circle
@@ -33068,8 +32736,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "9950dd8c-663c-4799-a72d-3eaed7cd21cc")
 	)
 	(gr_circle
@@ -33080,8 +32747,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "75d828f6-9b37-48fd-ab87-21fa43bef62c")
 	)
 	(gr_circle
@@ -33176,8 +32842,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "2bcb0bb9-c960-4595-bc31-6bb63582ea6a")
 	)
 	(gr_circle
@@ -33332,8 +32997,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "48bc62d3-d5f9-47de-a5e2-3054c258e247")
 	)
 	(gr_circle
@@ -33344,8 +33008,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "85bee478-fd29-4733-83b1-b8c7dca0cce5")
 	)
 	(gr_circle
@@ -33416,8 +33079,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "c211c234-6cbb-44c2-8348-054a8ed08d7a")
 	)
 	(gr_circle
@@ -33428,8 +33090,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "2f3f7b49-94e2-4691-9a3f-4a7bf405992e")
 	)
 	(gr_circle
@@ -33688,8 +33349,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "44eef33a-7f6e-4f1b-9a99-7ccec428fed9")
 	)
 	(gr_circle
@@ -33952,8 +33612,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "ced7942b-f84d-4bf8-b4d2-c3e0983eae44")
 	)
 	(gr_circle
@@ -34012,8 +33671,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "ecf0a7d6-f78d-49d3-8f25-b2caed69a3f9")
 	)
 	(gr_circle
@@ -34515,8 +34173,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "d00e7e87-63bc-4954-812f-833897e07f12")
 	)
 	(gr_circle
@@ -36386,8 +36043,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "c52c1a1e-bf94-4857-a21f-507f8ab03253")
 	)
 	(gr_circle
@@ -36829,8 +36485,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "1b6b4ebb-c0e9-49ec-a436-f1546c32232d")
 	)
 	(gr_circle
@@ -36889,8 +36544,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "27780555-b283-4224-908d-9a3449d22af3")
 	)
 	(gr_circle
@@ -36937,8 +36591,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "a19ea633-53ec-4b3d-b6d3-3b3a0d26905e")
 	)
 	(gr_circle
@@ -36973,8 +36626,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "939c15c3-3232-4219-86a2-127fbfbc0f70")
 	)
 	(gr_circle
@@ -37021,8 +36673,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layers "B.Cu" "B.Mask")
-		(solder_mask_margin 0.15)
+		(layer "B.Cu")
 		(uuid "e0fdbf6a-aecf-42a9-8d87-3a8bd418d815")
 	)
 	(gr_circle
@@ -55235,14 +54886,6 @@
 		(uuid "194be0a3-bf8e-4316-91b1-de2a45221edc")
 	)
 	(segment
-		(start 279.7584 42.4688)
-		(end 280.5521 42.4688)
-		(width 0.4)
-		(layer "F.Cu")
-		(net "")
-		(uuid "19666c29-d2ff-4c05-996a-f5ab761931aa")
-	)
-	(segment
 		(start 231.2602 248.3676)
 		(end 236.4196 243.3669)
 		(width 0.4)
@@ -66569,14 +66212,6 @@
 		(layer "F.Cu")
 		(net "")
 		(uuid "51f66b20-65bd-4e2d-aaa8-ca425896289e")
-	)
-	(segment
-		(start 280.5521 42.4688)
-		(end 280.6315 42.3894)
-		(width 0.4)
-		(layer "F.Cu")
-		(net "")
-		(uuid "51ff52be-5f6f-4e92-9db3-6681673fae68")
 	)
 	(segment
 		(start 240.1502 88.7444)
