@@ -92,7 +92,7 @@
 	(footprint "clipboard:61e98d75-cfc5-48ac-82d2-a25be53cbd38"
 		(layer "F.Cu")
 		(uuid "1295d1ad-7897-4310-8ab2-85843266dd26")
-		(at 248.750267 58.16 -90)
+		(at 252.91 54.31 90)
 		(property "Reference" ""
 			(at 0 0 90)
 			(layer "F.SilkS")
@@ -1124,7 +1124,7 @@
 	(footprint "clipboard:61e98d75-cfc5-48ac-82d2-a25be53cbd38"
 		(layer "F.Cu")
 		(uuid "a04e8f67-f2f8-4a13-870a-48a547fc11c2")
-		(at 249.390267 39.280002 -90)
+		(at 252.79 35.35 90)
 		(property "Reference" ""
 			(at 0 0 90)
 			(layer "F.SilkS")
