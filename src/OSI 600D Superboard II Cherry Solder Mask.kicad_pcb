@@ -49851,7 +49851,7 @@
 			)
 		)
 	)
-	(gr_text "Origional by Grant (Klyball)\nAdded to by Jon (Bambleweeny57)"
+	(gr_text "Origional by Grant (Klyball)\nAdded to by Jon (Bambelweeny57)"
 		(at 285.69 99.7 0)
 		(layer "F.SilkS")
 		(uuid "0258d304-e10d-455c-9fbc-3a198f15e203")
@@ -49863,7 +49863,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "Bambleweeny57"
+	(gr_text "Bambelweeny57"
 		(at 352.813 36.1486 0)
 		(layer "F.SilkS")
 		(uuid "85cc3bc2-f3d7-40d3-b4fe-c0b0b8ef13d7")
